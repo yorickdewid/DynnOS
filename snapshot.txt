@@ -1,0 +1,25 @@
+[*] Kernel debugger loaded
+[*] Kernel entry point [HIT]
+[*] Kernel stack 0x10c000 to 0x108000
+[*] Parse ramdisk at 0x21ce0
+[*] current_task at 0xc008000c
+[*] current_task->id at 0x1
+[*] current_task->next at 0x0
+[*] current_task->ebp at 0xdfffff9c
+[*] current_task->esp at 0xdfffff64
+[*] current_task->eip at 0x106ade
+[*] current_task->page_directory at 0xc0081000
+[*] current_task->kernel_stack at 0xc0081000
+[1] CPU: EIP 0x106ade ESP 0xdfffff64 EBP 0xdfffff9c PD 0x1a5000
+[*] [DEBUG]
+[*] Drop to kernel shell...
+ß
+
+
+
+
+
+
+
+
+
